@@ -1,0 +1,1 @@
+Based on consumer survey data available, considering multiple factors (features) like No of Earning Members in the Family vs No of Family Members, consumers Annual Income is to be categorized into 2 different segments "Above Poverty Line" and "Below Poverty Line".
